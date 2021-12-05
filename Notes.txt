@@ -6,5 +6,12 @@
 **List**
 - Use sort() to sort
 
-Kadane’s Algorithm = Maximum Sum Subarray Problem 
+-> Kadane’s Algorithm = Maximum Sum Subarray Problem 
 The question we do in this is "Given an integer array, find a contiguous subarray within it that has the largest sum."
+
+Craking the Coding Interviews [book] :
+1.Bottlenecks.
+2.Unessary Work.
+3.Duplicate Work.
+
+Short form = BUD
