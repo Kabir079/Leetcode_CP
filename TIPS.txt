@@ -1,0 +1,13 @@
+This file will contain tips, on 5W's of "Solving a CP question"
+
+Reading process: 
+1.Read the question.
+2.Understand the question.
+3.Read multiple times the question with an eye on the "Sample inputs" and "Sample outputs".
+
+Solution process :
+1.Observe patter from the "diagram" (if given), "inputs and outputs"
+2.Then come up with a solution.
+3.Break the solution into pieces of solution.
+4.Solve each part of the solution
+5.Combine all the parts of the solution (using common sense logic)
