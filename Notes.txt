@@ -15,3 +15,15 @@ Craking the Coding Interviews [book] :
 3.Duplicate Work.
 
 Short form = BUD
+
+
+**Matrix**
+If you want to check if a matrix is empty or not, then below is the code : 
+if matrix[0]:
+  return False
+ 
+If you want to check if a matrix exits or not , then below is the code : 
+if not matrix: 
+  return False
+  
+ 
