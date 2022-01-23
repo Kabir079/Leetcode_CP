@@ -1,0 +1,29 @@
+def canConstruct(ransomNote, magazine):
+    m = list(ransomNote)
+    n = list(magazine)
+    print("m :",m)
+    print("n :",n)
+
+    i = 0
+    a = [] #empty list
+
+    if len(m) < len(n):
+        return False
+    else :
+        for i in range(len(magazine)):
+            if n[i] == m[i]:
+                a.append(i) #storing it in a list
+            else :
+                continue
+
+        #checking if the list is equal
+        print('a :', a)
+        if list(a) == m:
+            return True
+        else:
+            return False
+
+#Driver code
+ransomNote = input(str("Enter first word : "))
+magazine = input(str("Enter second word : "))
+print(canConstruct(ransomNote,magazine))
